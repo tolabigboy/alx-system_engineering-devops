@@ -1,2 +1,3 @@
 #!/bin/bash
-cp -u *.HTML
+cp -u *.html ..
+
